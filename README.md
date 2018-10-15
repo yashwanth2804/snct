@@ -1,1 +1,1 @@
-# snct
+# SNCT Smart Contracts 
