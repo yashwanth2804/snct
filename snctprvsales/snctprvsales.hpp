@@ -1,3 +1,7 @@
+//
+// Copyright (c) 2018 SNC Limited
+//
+
 #pragma once
 
 #include <eosiolib/eosio.hpp>
